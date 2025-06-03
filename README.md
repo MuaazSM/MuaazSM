@@ -9,7 +9,7 @@
 
 🔬 I'm passionate about building meaningful AI applications using LLMs and quantum-inspired optimization.  
 💡 Currently working on **AI-powered apps** (mental health, real estate, resume gen) with Flutter, Firebase, LangChain, and OpenAI APIs.  
-🎓 I'm also a **Quantum Optimization Research Intern** under Dr. Minirani S (MPSTME, NMIMS).  
+🎓 I'm also a **Quantum Optimization Research Intern** at (MPSTME, NMIMS).  
 🌱 Always learning — LangChain, advanced ML, DSA in Python, and Flutter full-stack!
 
 ---
@@ -54,9 +54,9 @@
 
 ### 📊 GitHub Stats
 
-| 📈 GitHub Profile Stats | 🔥 Streak Stats |
-|--------------------------|-----------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=MuaazSM&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=MuaazSM&theme=tokyonight) |
+| 📈 GitHub Profile Stats | 
+|--------------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=MuaazSM&show_icons=true&theme=tokyonight) |
 
 
 ---
@@ -64,8 +64,8 @@
 ### 🏅 Achievements
 
 - 💻 Research Intern – **Quantum Optimization, MPSTME NMIMS**  
-- 🏆 Finalist – **Cyber Cypher 4.0**, **IEEE SSH 2024**, **Taqneeq 2025**  
-- 🎓 Certified – **IBM Data Science** | **DeepLearning.AI Specialization** | **Google GenAI Capstone**
+- 🏆 Finalist – **Cyber Cypher 4.0**, **IEEE SSH 2024**
+- 🎓 Certified – **IBM Data Science** | **Machine Learning Specialization** | **Kaggle 5 day GenAI Course**
 
 ---
 
