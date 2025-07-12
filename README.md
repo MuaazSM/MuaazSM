@@ -69,8 +69,5 @@
 
 ---
 
-> “Build with purpose, learn with curiosity, and empower through code.”  
-> — *Muaaz*
-
 ---
 
