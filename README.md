@@ -24,7 +24,7 @@
 
 ### 📫 Connect With Me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muaazshaikh/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muaazshaikh12/)
 - 📧 Email: muaaz5731@gmail.com
 
 ---
