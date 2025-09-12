@@ -14,14 +14,6 @@
 
 ---
 
-### 💬 Ask Me About:
-
-`LangChain` • `Prompt Engineering` • `Flutter + Firebase` • `Python` • 
-`Machine Learning` • `Deep Learning` • `Quantum Computing` • `Generative AI`  
-`Hackathon Strategy` • `Product Thinking` • `AI for Good`
-
----
-
 ### 📫 Connect With Me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muaazshaikh12/)
