@@ -2,7 +2,6 @@
 <h3 align="center">AI/ML Developer | GenAI Enthusiast | Quantum Computing Explorer</h3>
 
 B.Tech CSBS @ NMIMS MPSTME  
-GitHub: [MuaazSM](https://github.com/MuaazSM)
 
 ---
 
