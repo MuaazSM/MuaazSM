@@ -10,37 +10,37 @@
 
 ## 🚀 About Me
 
-- 💼 I’m a **developer-researcher hybrid** — passionate about taking AI ideas from research to deployment.  
-- 🧠 I specialize in **Machine Learning, Deep Learning, and Generative AI** (LLMs, RAG, LangChain, Transformers).  
-- 🛠️ Experienced in **full-stack AI development** — from training models and APIs to deploying user-facing apps.  
-- 🌍 I’ve worked on projects in **real estate, legal tech, and mental health AI** using LangChain + FastAPI + Flutter.  
-- 🔧 I’m obsessed with writing **clean, scalable code** and building **developer-friendly architectures**.  
-- 📈 Currently improving my skills in **system design, DevOps pipelines, and model optimization**.  
-- 🎯 Goal: Build reliable, human-centric AI systems that integrate seamlessly into everyday products.  
+- 💼 I’m a **developer–researcher hybrid**, passionate about taking AI ideas from **research to deployment**.  
+- 🧠 Specializing in **Machine Learning, Deep Learning, and Generative AI** (LLMs, RAG, LangChain, Transformers).  
+- 🛠️ Experienced in **full-stack AI development** — from training models and building APIs to deploying real-world apps.  
+- 🌍 Built AI systems in **real estate, legal tech, and mental health** using LangChain + FastAPI + Flutter.  
+- 🔧 I love writing **clean, scalable code** and designing **developer-friendly architectures**.  
+- 📈 Currently exploring **system design, DevOps pipelines, and model optimization**.  
+- 🎯 Goal: Create **human-centric AI systems** that seamlessly integrate into everyday life.  
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,dart&theme=dark" />
 </p>
 
 ### 🧩 Frameworks & Libraries
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,flask,fastapi,django,react,nextjs,nodejs,flutter&theme=dark" />
   <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-%23FFD43B.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### ☁️ Databases & Cloud
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql,aws,docker&theme=dark" />
 </p>
 
 ### ⚙️ Tools & DevOps
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
 </p>
 
@@ -62,16 +62,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muaazshaikh12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muaaz5731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MuaazSM">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ *“Turning complex ideas into practical, intelligent software.”*  
+⭐ *“Turning complex ideas into practical, intelligent software.”*
