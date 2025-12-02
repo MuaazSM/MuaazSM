@@ -1,77 +1,58 @@
-<h1 align="center">Hey, I'm <span style="color:#00BFA6;">Muaaz Shaikh</span></h1>
-<h3 align="center">💻 AI/ML Developer | 🧠 Generative AI Engineer | ⚙️ Full-Stack Developer</h3>
+<h1 align="center">Muaaz Shaikh</h1>
+<h3 align="center">Computer Science | Artificial Intelligence | Applied Systems</h3>
 
 <p align="center">
-  <b>B.Tech in Computer Science & Business Systems</b> @ <b>NMIMS MPSTME</b><br>
-  ⚡ Passionate about building high-impact, production-ready AI applications powered by cutting-edge frameworks.
+  B.Tech in Computer Science & Business Systems — NMIMS MPSTME  
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 I’m a **developer–researcher hybrid**, passionate about taking AI ideas from **research to deployment**.  
-- 🧠 Specializing in **Machine Learning, Deep Learning, and Generative AI** (LLMs, RAG, LangChain, Transformers).  
-- 🛠️ Experienced in **full-stack AI development** — from training models and building APIs to deploying real-world apps.  
-- 🌍 Built AI systems in **real estate, legal tech, and mental health** using LangChain + FastAPI + Flutter.  
-- 🔧 I love writing **clean, scalable code** and designing **developer-friendly architectures**.  
-- 📈 Currently exploring **system design, DevOps pipelines, and model optimization**.  
-- 🎯 Goal: Create **human-centric AI systems** that seamlessly integrate into everyday life.  
+I am a second-year Computer Science student who enjoys building and deploying AI systems that solve real problems.  
+I approach work from first principles: understand the problem, design a system, experiment, and iterate until a reliable solution emerges.  
+I learn by doing and value clarity of thought, ownership, and measurable outcomes over abstract complexity or theoretical hype.
+
+My interests currently span:
+- Multi-agent system design and orchestration
+- Retrieval-augmented generation and memory architectures
+- Legal AI, summarization, and domain-grounded LLM workflows
+- Practical ML and deep learning systems
+
+I prefer small, sharp execution loops:
+- Think → build → test → ship → learn → improve
+
+I believe strong engineering is not just about models—it is about reliability, context, and user impact.
 
 ---
 
-## 🧰 Tech Stack
+## Skillset
 
-### 💻 Programming Languages
+I have worked with:
+- **Python, C++, Java, JavaScript**
+- **TensorFlow, PyTorch, LangChain, LangGraph**
+- **MongoDB, PostgreSQL, Pinecone, FAISS**
+- **FastAPI, REST APIs**, and production deployment platforms (Render, Railway, Vercel)
+
+I try to keep my stack practical and problem-driven rather than tool-driven.
+
+---
+
+I like working in environments where:
+- builders are trusted to think
+- speed matters, but correctness matters more
+- small teams ship big things
+- responsibility is not outsourced
+
+Technology should reduce friction, not create it.  
+Systems should be intuitive, resilient, and respectful of the people who use them.
+
+---
+
+## Connect
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,dart&theme=dark" />
+  <a href="https://www.linkedin.com/in/muaazshaikh12">LinkedIn</a> •
+  <a href="mailto:muaaz5731@gmail.com">Email</a> •
+  <a href="https://github.com/MuaazSM">GitHub</a>
 </p>
-
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,flask,fastapi,django,react,nextjs,nodejs,flutter&theme=dark" />
-  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD43B.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### ☁️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql,aws,docker&theme=dark" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MuaazSM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuaazSM&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuaazSM&bg_color=0d1117&color=5ce1e6&line=5ce1e6&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muaazshaikh12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muaaz5731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MuaazSM">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ *“Turning complex ideas into practical, intelligent software.”*
