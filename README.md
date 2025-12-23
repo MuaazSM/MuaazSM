@@ -1,58 +1,90 @@
-<h1 align="center">Muaaz Shaikh</h1>
-<h3 align="center">Computer Science | Artificial Intelligence | Applied Systems</h3>
+<h1 align="center">Hey, I'm <span style="color:#00BFA6;">Muaaz Shaikh</span></h1>
+<h3 align="center">AI/ML Developer · Generative AI Engineer · Full-Stack Developer</h3>
 
 <p align="center">
-  B.Tech in Computer Science & Business Systems — NMIMS MPSTME  
+  <b>B.Tech — Computer Science & Business Systems</b> @ <b>NMIMS MPSTME</b><br>
+  Building production-ready AI systems from research to real-world deployment.
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a second-year Computer Science student who enjoys building and deploying AI systems that solve real problems.  
-I approach work from first principles: understand the problem, design a system, experiment, and iterate until a reliable solution emerges.  
-I learn by doing and value clarity of thought, ownership, and measurable outcomes over abstract complexity or theoretical hype.
+I’m a **developer–researcher hybrid** focused on designing, building, and deploying **high-impact AI systems**.
 
-My interests currently span:
-- Multi-agent system design and orchestration
-- Retrieval-augmented generation and memory architectures
-- Legal AI, summarization, and domain-grounded LLM workflows
-- Practical ML and deep learning systems
+- Strong foundation in **Machine Learning, Deep Learning, and Generative AI**
+- Hands-on experience with **LLMs, RAG pipelines, LangChain, Transformers, and agentic workflows**
+- End-to-end **full-stack AI development** — model training, APIs, system design, and deployment
+- Built real-world AI solutions in **legal tech, real estate, and mental health**
+- Passionate about **clean architecture, scalability, and developer-friendly systems**
+- Currently exploring **system design, MLOps, and model optimization**
 
-I prefer small, sharp execution loops:
-- Think → build → test → ship → learn → improve
-
-I believe strong engineering is not just about models—it is about reliability, context, and user impact.
+🎯 **Goal:** Build human-centric AI products that are reliable, scalable, and genuinely useful.
 
 ---
 
-## Skillset
+## 🧰 Tech Stack
 
-I have worked with:
-- **Python, C++, Java, JavaScript**
-- **TensorFlow, PyTorch, LangChain, LangGraph**
-- **MongoDB, PostgreSQL, Pinecone, FAISS**
-- **FastAPI, REST APIs**, and production deployment platforms (Render, Railway, Vercel)
-
-I try to keep my stack practical and problem-driven rather than tool-driven.
-
----
-
-I like working in environments where:
-- builders are trusted to think
-- speed matters, but correctness matters more
-- small teams ship big things
-- responsibility is not outsourced
-
-Technology should reduce friction, not create it.  
-Systems should be intuitive, resilient, and respectful of the people who use them.
-
----
-
-## Connect
-
+### 💻 Languages
 <p align="left">
-  <a href="https://www.linkedin.com/in/muaazshaikh12">LinkedIn</a> •
-  <a href="mailto:muaaz5731@gmail.com">Email</a> •
-  <a href="https://github.com/MuaazSM">GitHub</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,dart&theme=dark" />
 </p>
+
+### 🧠 ML / AI Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 🌐 Backend & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,nodejs,flutter&theme=dark" />
+</p>
+
+### ☁️ Databases, Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql,aws,docker,git,github,linux&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=MuaazSM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86401"
+  />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=MuaazSM&theme=dark&hide_border=true&mode=daily&cache_seconds=86401"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MuaazSM&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muaazshaikh12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muaaz5731@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuaazSM">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Turning complex ideas into reliable, intelligent software.*
