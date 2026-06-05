@@ -1,8 +1,11 @@
 <h1 align="center">Hey, I'm <span style="color:#00BFA6;">Muaaz Shaikh</span></h1>
-<h3 align="center">AI/ML Developer · Generative AI Engineer · Full-Stack Developer</h3>
+
+<h3 align="center">
+  AI Intern @ Hive Pro · AI/ML Developer · Generative AI Engineer · Full-Stack Developer
+</h3>
 
 <p align="center">
-  <b>B.Tech — Computer Science & Business Systems</b> @ <b>NMIMS MPSTME</b><br>
+  <b>B.Tech in Computer Science & Business Systems</b> @ <b>NMIMS MPSTME</b><br>
   Building production-ready AI systems from research to real-world deployment.
 </p>
 
@@ -10,14 +13,15 @@
 
 ## 🚀 About Me
 
-I’m a **developer–researcher hybrid** focused on designing, building, and deploying **high-impact AI systems**.
+I’m a **developer-researcher hybrid** focused on designing, building, and deploying **high-impact AI systems**.
 
+- Currently working as an **AI Intern @ Hive Pro**
 - Strong foundation in **Machine Learning, Deep Learning, and Generative AI**
 - Hands-on experience with **LLMs, RAG pipelines, LangChain, Transformers, and agentic workflows**
-- End-to-end **full-stack AI development** — model training, APIs, system design, and deployment
-- Built real-world AI solutions in **legal tech, real estate, and mental health**
+- End-to-end **full-stack AI development** including model training, APIs, system design, and deployment
+- Built real-world AI solutions in **legal tech, real estate, mental health, and developer tooling**
 - Passionate about **clean architecture, scalability, and developer-friendly systems**
-- Currently exploring **system design, MLOps, and model optimization**
+- Currently exploring **system design, MLOps, agentic AI systems, and model optimization**
 
 🎯 **Goal:** Build human-centric AI products that are reliable, scalable, and genuinely useful.
 
@@ -68,7 +72,6 @@ I’m a **developer–researcher hybrid** focused on designing, building, and de
   />
 </p>
 
-
 ---
 
 ## 🌐 Connect
@@ -87,4 +90,6 @@ I’m a **developer–researcher hybrid** focused on designing, building, and de
 
 ---
 
-⭐ *Turning complex ideas into reliable, intelligent software.*
+<p align="center">
+  ⭐ <i>Turning complex ideas into reliable, intelligent software.</i>
+</p>
